@@ -7,7 +7,7 @@
         "school": "河南理工大学",
         "profession": "计算机科学与技术",
         "sex": "男",
-        "education" : "本科",
+        "education" : "在读本科",
         "workage": "2024年6月毕业",
         "phone": "15238613597",
         "email": "wangchangyang18@gmail.com"
@@ -48,7 +48,7 @@
             "name_link": "",
             "title": "实习/前端开发工程师助理",
             "icon": "",
-            "description": "使用 React + Redux + Ant Design 技术栈协助开发小程序以及企微侧边栏应用, 参与前端中台开发, 使用Nest.js 开发企微转发服务以及前端所需公共服务. 利用技术降低了人力成本同时提高了运营效率",
+            "description": "使用 React + Redux + Ant Design 技术栈协助开发小程序以及企微侧边栏应用, 参与前端中台开发, 使用Nest.js 开发企微转发服务以及前端所需公共服务。利用技术降低了人力成本同时提高了运营效率",
             "time": "2023.06 - 2023.09",
             "location": "郑州 中国"
         },
