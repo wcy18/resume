@@ -45,38 +45,37 @@
         {
             "name": "组织3次校内开发者交流会",
             "name_link": "https://github.com/wcy18",
-            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
+            "description": "受RubyConf China启发，地处三线城市IT氛围不浓厚，所以在校内自行组织了3次交流会"
         },
 		{
-            "name": "加入XX移动开发工作室",
-            "name_link": "https://github.com/Jayin",
-            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
+            "name": "加入校英语社团",
+            "description": "策划每周的英语角活动, 通过线上宣传活动人数由最初的十几人扩展到一百余人, 促进了中外大学生的文化交流"
         }
     ],
     "InternExperiences": [
         {
-            "name": "深圳XX网络科技有限公司",
+            "name": "河南文耀科技有限公司",
             "name_link": "",
-            "title": "前端开发工程师",
+            "title": "实习/前端开发工程师助理",
             "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
-            "time": "2015.04 - 2015.09",
-            "location": "广东 深圳"
+            "description": "使用 React + Redux + Ant Design 技术栈协助开发小程序以及企微侧边栏应用, 参与前端中台开发, 使用Nest.js 开发企微转发服务以及前端所需公共服务. 利用技术降低了人力成本同时提高了运营效率",
+            "time": "2023.06 - 2023.09",
+            "location": "郑州 中国"
         },
         {
-            "name": "深圳XXX网络科技有限公司",
+            "name": "郑州市金水区政务服务中心",
             "name_link": "",
-            "title": "PHP开发工程师",
+            "title": "实习/大厅工作人员",
             "icon": "",
-            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
-            "time": "2014.07 - 2014.08",
-            "location": "广东 江门"
+            "description": "通过分析用户预约流程反馈,发现预约小程序界面导航混乱且信息填写繁琐。使用AntDesign重新设计用户界面并优化导航结构, 将用户在预约流程中的平均点击次数从 10 次减少到 6 次, 有效减轻了用户操作负担",
+            "time": "2022.06 - 2022.09",
+            "location": "郑州 中国"
         }
     ],
     "ProjectExperience": [
         {
             "name": "XTips",
-            "name_link": "https://github.com/Jayin",
+            "name_link": "",
             "title": "Android App, 作者",
             "icon": "",
             "description": "中山大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
@@ -91,16 +90,7 @@
             "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
             "time": "2014.08 - 2014.12",
             "location": ""
-        },
-        {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
-            "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
-            "location": ""
         }
-        
+       
     ]
 }
